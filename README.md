@@ -2,6 +2,8 @@
 
 v1.1
 
+This is a plane wave shooter game.
+
 To play the game open the executable i.e. the file with the '.exe.' extension.
 
 IMPORTANT
